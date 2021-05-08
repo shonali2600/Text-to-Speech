@@ -1,0 +1,15 @@
+.icon {
+    font-size: 4rem;
+    filter: invert(100%);
+}
+input[type= "range"] {
+    width: 100%;
+}
+.inp {
+    background-color: rgb(34, 33, 33);
+    color: blanchedalmond;
+}
+.inp:focus{
+    background-color: rgb(34, 33, 33);
+    color: blanchedalmond;
+}
